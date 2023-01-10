@@ -20,3 +20,10 @@ print(least_difference(1,10,100), least_difference(1,10,10), least_difference(5,
 #dit bonjour à "nom"
 def say_hi(nom):
     print("Hi",nom)
+
+# Function multiplication 
+def multiplication (a,b):
+    return a * b
+
+
+print(multiplication(7,8))
