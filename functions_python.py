@@ -30,9 +30,13 @@ def say_hi(nom):
     print("Hi", nom)
 
 
-# Function multiplication 
+# Function multiplication
 def multiplication(a, b):
     return a * b
 
 
 print(multiplication(7, 8))
+
+
+def say_bye(nom):
+    print("bye",nom)
